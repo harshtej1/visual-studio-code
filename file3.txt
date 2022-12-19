@@ -10,4 +10,8 @@ nine
 ten
 11
 twelve
+<<<<<<< Updated upstream
 welcone to azure
+=======
+welcome to gcp
+>>>>>>> Stashed changes
